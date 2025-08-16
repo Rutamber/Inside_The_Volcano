@@ -38,14 +38,19 @@ Follow the steps below to run it on your system:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/rutamber/Inside-the-Volcano.git
-   cd game
-2. **Run the game**
+   git clone https://github.com/rutamber/Inside_the_Volcano.git
+2. **Open the main directory**
+    ```bash
+    cd Inside_the_Volcano
+3. **Open the second directory**
+    ```bash
+    cd game    
+4. **Run the game**
     ```bash
     python game-v1.py
-3. **Play!**
+5. **Play!**
    
-Follow the on-screen prompts, make choices, and explore the story.🔥⚔️
+    Follow the on-screen prompts, make choices, and explore the story.🔥⚔️
 
 ## 🙌 Feedback
 Any feedback, suggestions, or even just words of encouragement are always appreciated.  
