@@ -1,7 +1,7 @@
 # 🌋 Inside the Volcano – First Python Project
 *“Every coder starts with spaghetti.”*
 
-This was the **first Python project I ever built** — a text-based adventure game where the player is forced into the mouth of a volcano, but he/she discoveredm there's a whole new world underneath! 
+This was the **first Python project I ever built** — a text-based adventure game where the player is forced into the mouth of a volcano, but he/she discovere that there's a whole new world underneath! 
 
 This version was initially made in late June 2025,
 At the time, my knowledge of Python was limited to:
