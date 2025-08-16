@@ -17,7 +17,7 @@ This version of the game is **unfinished**, but it already contains a sizeable p
 Some missing parts include:
 1. Elara’s full path  
 2. The complete story (it currently ends on a cliffhanger)  
-3. Proper modularization and code structure  
+3. Proper modularization and code structure
 
 ---
 
